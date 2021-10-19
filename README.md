@@ -8,4 +8,4 @@ https://doniws.github.io For alternative https://doniws.netlify.app
                                                                            
 There so many project on my website you can see my project on my website.  
 
-![alt text](https://doniws.github.io/images/loadersuper.webp)
+![alt text](https://doniws.github.io/images/loadersuper.gif)
