@@ -8,4 +8,6 @@ https://doniws.github.io For alternative https://doniws.netlify.app
                                                                            
 There so many project on my website you can see my project on my website.  
 
-![alt text](https://doniws.github.io/images/logoutama.png)
+my logo:
+
+![My Logo](https://doniws.github.io/images/logoutama.webp)
