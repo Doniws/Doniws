@@ -14,4 +14,6 @@ my logo:
 
 ![My Logo](https://doniws.netlify.app/images/logoutama.webp)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws)](https://github.com/Doniws/)
+
 Semua Project Saya ada di website doniws.netlify.app dan doniws.github.io
