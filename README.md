@@ -16,4 +16,6 @@ my logo:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws)](https://github.com/Doniws/)
 
-Semua Project Saya ada di website doniws.netlify.app dan doniws.github.io
+START PROGRAMMING 8 AUGUST 2021
+First C++
+Second HTML,CSS,JS
