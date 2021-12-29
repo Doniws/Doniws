@@ -6,6 +6,12 @@ You Want visit my website❓❗❗
 If you want visit This my website                                                                                
 https://doniws.github.io  (/[Name Repository]) For alternative https://doniws.netlify.app        
                                                                            
+```
+Semua yang project yang ada di github dibuat sendiri.
+```
+
+
+
 There so many project on my website you can see my project on my website.  
 
 Kalian bisa gunakan fitur fitur yang saya buat atau committ di github
