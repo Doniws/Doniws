@@ -8,6 +8,7 @@ https://doniws.github.io  (/[Name Repository]) For alternative https://doniws.ne
                                                                            
 There so many project on my website you can see my project on my website.  
 
+Kalian bisa gunakan fitur fitur yang saya buat atau committ di github
 Dont Forget Give me a star for my repository
 
 my logo:
@@ -24,3 +25,4 @@ _________________________
 ![](https://github.com/Doniws<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
+>Copyright © Doniws 2021
