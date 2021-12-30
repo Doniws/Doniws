@@ -29,8 +29,6 @@ Second HTML,CSS,JS (20 AUGUST)<br>
 _________________________
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws)](https://github.com/Doniws/)
 
-
-![](https://github.com/Doniws<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+![](https://komarev.com/ghpvc/?username=Doniws&color=blue)
 
 >Copyright © Doniws 2021
