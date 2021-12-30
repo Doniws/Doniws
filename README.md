@@ -1,4 +1,4 @@
-Welcome to My GitHub👋👋👋👋👋                                           
+<h1 align="center">Welcome to My GitHub👋👋👋👋👋    </h1>                                     
                                                                            
 Doniws Personal Website Hello Thanks Visit My GitHub                       
 <br>
@@ -20,8 +20,11 @@ There so many project on my website you can see my project on my website.
 Kalian bisa gunakan fitur fitur yang saya buat atau committ di github
 Dont Forget Give me a star for my repository:
 
-My Logo:
-![My Logo](https://doniws.netlify.app/images/logoutama.webp)
+  <h2 align="center">Doniws</h2>
+<p align="center">
+    <img width="200" src="https://doniws-portfolio.netlify.app/images/logoutama.webp">
+</p>
+
 _________________________
 **START PROGRAMMING 8 AUGUST 2021**<br>
 First C++ (8 AUGUST)<br>
