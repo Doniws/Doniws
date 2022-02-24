@@ -38,8 +38,10 @@ First C++ (8 AUGUST)<br>
 Second HTML,CSS,JS (20 AUGUST)<br>
 Third PHP (23 JANUARY)<br>
 _________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws)](https://github.com/Doniws/)
 
-![](https://komarev.com/ghpvc/?username=Doniws&color=blue)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws&theme=dark)
+![Doniws](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniws&theme=dark) <br>
+![](https://komarev.com/ghpvc/?username=Doniws&color=blue) <br>
 
 >Copyright © Doniws 2021
