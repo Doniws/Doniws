@@ -20,11 +20,11 @@ Semua yang project yang ada di github dibuat sendiri.
 
 There so many project on my website you can see my project on my website.  
 
-Untuk Project yang belum final ada di<br>
->https://percobaanproject.netlify.app
+Project yang sedang di kerjakan<br>
+>https://music-band-app.netlify.app
 <br>
 
-Kalian bisa gunakan fitur fitur yang saya buat atau committ di github
+Kalian bisa gunakan fitur fitur yang saya buat atau commite di github
 Dont Forget Give me a star for my repository:
 
   <h2 align="center">Doniws</h2>
