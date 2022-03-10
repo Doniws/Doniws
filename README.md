@@ -7,10 +7,7 @@ and My age  15 years old
 
 You want know aboutme more you should visit 
 >https://doniws-portfolio.netlify.app
-<br>                                                                          
-You Want visit my website❓❗❗                                                                                                       
-If you want visit This my website                                                                                
-https://doniws.github.io  (/[Name Repository]) For alternative https://doniws.netlify.app        
+<br>                                                                              
                                                                            
 ```
 Semua yang project yang ada di github dibuat sendiri.
