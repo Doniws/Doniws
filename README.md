@@ -41,6 +41,7 @@ _________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws&theme=dark)
 <br>
-
+![](https://komarev.com/ghpvc/?username=Doniws&color=blue)
+<br>
 >Copyright © Doniws 2021
-[](https://komarev.com/ghpvc/?username=Doniws&color=blue) 
+
