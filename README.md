@@ -40,7 +40,6 @@ _________________________
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws&theme=dark)
-![Doniws](https://github-readme-stats.vercel.app/api/top-langs/?username=Doniws&theme=dark) <br>
 <br>
 
 >Copyright © Doniws 2021
