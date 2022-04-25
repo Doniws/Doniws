@@ -38,7 +38,8 @@ Third PHP (23 JANUARY 2022)<br>
 Four PYTHON (14 APRIL 2022)<br>
 _________________________
 
-DONASI Agar Lebih Semangat :
+Suka dengan Projek yang saya buat
+Beri dukungan agar lebih semangat:
 https://saweria.co/Doniws
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniws&theme=dark)
