@@ -18,7 +18,7 @@ Semua yang project yang ada di github dibuat sendiri.
 There so many project on my website you can see my project on my website.  
 
 Project yang sedang di kerjakan<br>
->https://music-band-app.netlify.app<br>
+>https://app-music-ncs.netlify.app<br>
 >https://wisata-indonesia.netlify.app<br>
 <br>
 
