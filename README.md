@@ -6,7 +6,7 @@ My name is Doni Wahyu Saputra and everyone call me [Doni]
 and My age  17 years old
 
 You want know aboutme more you should visit 
->https://doniws-portfolio.netlify.app
+>https://doniws.my.id
 <br>                                                                              
                                                                            
 ```
