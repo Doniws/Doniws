@@ -2,7 +2,7 @@
 
 **About Me**
 
-Hi there! My name is Doni Wahyu Saputra, but everyone calls me Doni. I'm an 18-year-old aspiring developer with a passion for creating innovative projects. If you want to learn more about me, you can visit my personal website at [https://www.doowii.io/team](https://www.doowii.io/team).
+Hi there! My name is Doni Wahyu Saputra, but everyone calls me Doni. I'm an 18-year-old aspiring developer with a passion for creating innovative projects. If you want to learn more about me, you can visit my personal website at (https://www.doniws.vercel.app).
 
 **My Projects**
 
@@ -10,7 +10,7 @@ I'm always working on new and exciting projects, and I love sharing them with th
 
 * **Music App:** A web application that allows users to stream and discover music. ([https://app-music-ncs.netlify.app](https://app-music-ncs.netlify.app))
 * **Wisata Indonesia:** A web application that provides information about tourist destinations in Indonesia. ([https://wisata-indonesia.netlify.app](https://wisata-indonesia.netlify.app))
-* **Orbitron Social:** A social media platform built with React JS. ([https://wisata-indonesia.netlify.app](https://wisata-indonesia.netlify.app))
+* **Orbitron Social:** A social media platform built with React JS. ([https://orbitron-social.netlify.app/](https://orbitron-social.netlify.app/))
 
 **My Skills**
 
@@ -39,7 +39,9 @@ GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniws&show_icons=true&theme=radical)
 
 Visitor :
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
+<br>
+<img src="https://camo.githubusercontent.com/b6877ce93fbfc3660fb0e03cc3e60494fc9f288e03c6052a62d084615a0e074a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d446f6e69777326636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Doniws&amp;color=blue" style="max-width: 100%;">
+
 **Copyright**
 
 © 2024 Doniws
