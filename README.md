@@ -30,16 +30,16 @@ I encourage you to explore my projects and use them for your own learning or dev
 
 **Support My Work**
 
-If you appreciate my work, please consider supporting me through Saweria. Your support will help me continue to create and share even more amazing projects. ([https://saweria.com/doniws](https://saweria.com/))
+If you appreciate my work, please consider supporting me through Saweria. Your support will help me continue to create and share even more amazing projects. ([https://saweria.com/doniws](https://saweria.com/doniws))
 
 **My GitHub Stats**
 
-GitHub Stats: [https://github-readme-stats.vercel.app/api?username=Doniws&theme=dark](https://github-readme-stats.vercel.app/api?username=Doniws&theme=dark)
+GitHub Stats:
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doniws&show_icons=true&theme=radical)
 
-**My GitHub Profile**
-
-Check out my GitHub profile to see more of my projects and contributions. ([https://docs.github.com/en/desktop/managing-commits/reverting-a-commit-in-github-desktop](https://docs.github.com/en/desktop/managing-commits/reverting-a-commit-in-github-desktop))
-
+Visitor :
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
 **Copyright**
 
 © 2024 Doniws
